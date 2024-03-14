@@ -1,0 +1,18 @@
+head#header, body{
+    background: rgb(250, 192, 255);
+}
+h1{
+    color: red;
+}
+#header{
+    background: firebrick;
+}
+a:visited{
+    color: blueviolet;
+}
+.mini{
+    color: gold;
+}
+a:focus, a:hover{
+color: red;
+}
